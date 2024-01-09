@@ -155,19 +155,11 @@
 		text-align: center;
 	}
 
-	.ttopic1:hover {
+	.ttopic1, .ttopic3:hover {
 		transform: skewX(5deg);
 	}
 
-	.ttopic2:hover {
-		transform: skewX(-5deg);
-	}
-
-	.ttopic3:hover {
-		transform: skewX(5deg);
-	}
-
-	.ttopic4:hover {
+	.ttopic2, .ttopic4:hover {
 		transform: skewX(-5deg);
 	}
 
@@ -284,7 +276,7 @@
 	#copyright {
 		background-color: #d94d62;
 		height: 10%;
-		width: 78.8%;
+		width: 78.7%;
 		margin: auto;
 		padding: 10px;
 		text-indent: 10px;
@@ -843,7 +835,7 @@
 	#copyright {
 		background-color: #d94d62;
 		height: 10%;
-		width: 78.8%;
+		width: 78.7%;
 		margin: auto;
 		padding: 10px;
 		text-indent: 10px;
@@ -1232,7 +1224,7 @@
 	#copyright {
 		background-color: #d94d62;
 		height: 10%;
-		width: 78.8%;
+		width: 78.7%;
 		margin: auto;
 		padding: 10px;
 		text-indent: 10px;
@@ -1548,7 +1540,7 @@
 	#copyright {
 		background-color: #d94d62;
 		height: 10%;
-		width: 78.8%;
+		width: 78.7%;
 		margin: auto;
 		padding: 10px;
 		text-indent: 10px;
@@ -1857,7 +1849,7 @@
 	#copyright {
 		background-color: #d94d62;
 		height: 10%;
-		width: 78.8%;
+		width: 78.7%;
 		margin: auto;
 		padding: 10px;
 		text-indent: 10px;
