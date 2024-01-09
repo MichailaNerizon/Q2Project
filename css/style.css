@@ -216,7 +216,6 @@
 		padding: 25px;
 		width: 65%;
 		height: 10%;
-		color: #FFE4D6;
 		text-shadow: 2px 2px black;
 		text-decoration: none;
 	}
@@ -239,9 +238,12 @@
 		padding: 25px;
 		width: 65%;
 		height: 10%;
-		color: #FFE4D6;
 		text-shadow: 2px 2px black;
 		text-decoration: none;
+	}
+
+	.title2 a, .title4 a {
+		color: #FFE4D6;
 	}
 
 	.title1 a, .title2 a, .title3 a, .title4 a {
