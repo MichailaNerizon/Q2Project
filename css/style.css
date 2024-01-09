@@ -156,11 +156,11 @@
 	}
 
 	.ttopic1:hover, .ttopic3:hover {
-		transform: skewX(5deg) !important;
+		transform: skewX(5deg);
 	}
 
 	.ttopic2:hover, .ttopic4:hover {
-		transform: skewX(-5deg) !important;
+		transform: skewX(-5deg);
 	}
 
 	#topic1 {
