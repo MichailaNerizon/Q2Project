@@ -114,10 +114,10 @@
 
 	aside {
     		float: right;
-		width: 15%;
+		width: 20%;
 		height: 100%;
     		background-color: #ff7273;
-		padding: 1.63%;
+		padding: 1%;
 		display: flex;
 		flex-direction: column;
 		position: fixed;
@@ -154,6 +154,7 @@
 		font-size: 125%;
 		display: block;
 		text-align: center;
+		width: 15%;
 	}
 
 	.ttopic1:hover, .ttopic3:hover {
