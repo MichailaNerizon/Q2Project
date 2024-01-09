@@ -112,7 +112,7 @@
 		margin: 0;
 	}
 
-	aside {
+	#aside {
     		float: right;
 		width: 20%;
 		height: 100%;
@@ -140,7 +140,6 @@
 		font-size: 125%;
 		display: block;
 		text-align: center;
-		width: 15%;
 	}
 
 	.ttopic2, .ttopic3, .ttopic4 {
@@ -154,7 +153,6 @@
 		font-size: 125%;
 		display: block;
 		text-align: center;
-		width: 15%;
 	}
 
 	.ttopic1:hover, .ttopic3:hover {
