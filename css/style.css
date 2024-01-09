@@ -155,11 +155,19 @@
 		text-align: center;
 	}
 
-	.ttopic1:hover, .ttopic3:hover {
+	.ttopic1:hover {
 		transform: skewX(5deg);
 	}
 
-	.ttopic2:hover, .ttopic4:hover {
+	.ttopic2:hover {
+		transform: skewX(-5deg);
+	}
+
+	.ttopic3:hover {
+		transform: skewX(5deg);
+	}
+
+	.ttopic4:hover {
 		transform: skewX(-5deg);
 	}
 
@@ -276,7 +284,7 @@
 	#copyright {
 		background-color: #d94d62;
 		height: 10%;
-		width: 78.9%;
+		width: 78.8%;
 		margin: auto;
 		padding: 10px;
 		text-indent: 10px;
@@ -835,7 +843,7 @@
 	#copyright {
 		background-color: #d94d62;
 		height: 10%;
-		width: 78.9%;
+		width: 78.8%;
 		margin: auto;
 		padding: 10px;
 		text-indent: 10px;
@@ -1224,7 +1232,7 @@
 	#copyright {
 		background-color: #d94d62;
 		height: 10%;
-		width: 78.9%;
+		width: 78.8%;
 		margin: auto;
 		padding: 10px;
 		text-indent: 10px;
@@ -1540,7 +1548,7 @@
 	#copyright {
 		background-color: #d94d62;
 		height: 10%;
-		width: 78.9%;
+		width: 78.8%;
 		margin: auto;
 		padding: 10px;
 		text-indent: 10px;
@@ -1849,7 +1857,7 @@
 	#copyright {
 		background-color: #d94d62;
 		height: 10%;
-		width: 78.9%;
+		width: 78.8%;
 		margin: auto;
 		padding: 10px;
 		text-indent: 10px;
