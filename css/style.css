@@ -241,7 +241,7 @@
 
 	.title2 a, .title4 a {
 		color: #FFE4D6 !important;
-		text-shadow: 2px 2px #FFE4D6 !important;
+		text-shadow: 2px 2px black !important;
 	}
 
 	.title1 a, .title2 a, .title3 a, .title4 a {
