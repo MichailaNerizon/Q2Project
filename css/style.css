@@ -114,7 +114,7 @@
 
 	#aside {
     		float: right;
-		width: 16.6%;
+		width: 16.7%;
 		height: 100%;
     		background-color: #ff7273;
 		padding: 1.63%;
@@ -204,7 +204,6 @@
 		padding: 25px;
 		width: 65%;
 		height: 10%;
-		text-shadow: 2px 2px #FFE4D6;
 		text-decoration: none;
 	}
 
@@ -226,7 +225,6 @@
 		padding: 25px;
 		width: 65%;
 		height: 10%;
-		text-shadow: 2px 2px #FFE4D6;
 		text-decoration: none;
 	}
 
@@ -243,6 +241,7 @@
 
 	.title2 a, .title4 a {
 		color: #FFE4D6 !important;
+		text-shadow: 2px 2px #FFE4D6 !important;
 	}
 
 	.title1 a, .title2 a, .title3 a, .title4 a {
