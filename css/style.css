@@ -156,11 +156,11 @@
 	}
 
 	.ttopic1:hover, .ttopic3:hover {
-		transform: skewX(5deg);
+		transform: skewX(5deg) !important;
 	}
 
 	.ttopic2:hover, .ttopic4:hover {
-		transform: skewX(-5deg);
+		transform: skewX(-5deg) !important;
 	}
 
 	#topic1 {
@@ -835,9 +835,9 @@
 	#copyright {
 		background-color: #d94d62;
 		height: 10%;
-		width: 80%;
+		width: 79.4% !important;
 		margin: auto;
-		padding: 5px;
+		padding: 10px;
 		text-indent: 10px;
     		text-align: left;
     		position: fixed;
@@ -1224,9 +1224,9 @@
 	#copyright {
 		background-color: #d94d62;
 		height: 10%;
-		width: 80%;
+		width: 79.4% !important;
 		margin: auto;
-		padding: 5px;
+		padding: 10px;
 		text-indent: 10px;
     		text-align: left;
     		position: fixed;
@@ -1540,9 +1540,9 @@
 	#copyright {
 		background-color: #d94d62;
 		height: 10%;
-		width: 80%;
+		width: 79.4% !important;
 		margin: auto;
-		padding: 5px;
+		padding: 10px;
 		text-indent: 10px;
     		text-align: left;
     		position: fixed;
@@ -1849,9 +1849,9 @@
 	#copyright {
 		background-color: #d94d62;
 		height: 10%;
-		width: 80%;
+		width: 79.4% !important;
 		margin: auto;
-		padding: 5px;
+		padding: 10px;
 		text-indent: 10px;
     		text-align: left;
     		position: fixed;
