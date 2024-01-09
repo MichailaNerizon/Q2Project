@@ -26,7 +26,7 @@
 		margin-top: 3px;
 	}
 
-	img:first-child:hover {
+	#logo:hover {
 		transform: translate(3px, 3px);
 	}
 
@@ -364,7 +364,7 @@
 	}
 
 
-	img:first-child:hover {
+	#logo:hover {
 		transform: translate(3px, 3px);
 	}
 
@@ -454,7 +454,7 @@
 
 	aside {
     		float: right;
-		width: 20%;
+		width: 16.7%;
 		height: 100%;
     		background-color: #ff7273;
 		padding: 1.63%;
@@ -1009,7 +1009,7 @@
 
 	aside {
     		float: right;
-		width: 20%;
+		width: 16.7%;
 		height: 100%;
     		background-color: #ff7273;
 		padding: 1.63%;
@@ -1398,7 +1398,7 @@
 
 	aside {
     		float: right;
-		width: 20%;
+		width: 16.7%;
 		height: 100%;
     		background-color: #ff7273;
 		padding: 25px;
@@ -1714,7 +1714,7 @@
 
 	aside {
     		float: right;
-		width: 20%;
+		width: 16.7%;
 		height: 100%;
     		background-color: #ff7273;
 		padding: 25px;
