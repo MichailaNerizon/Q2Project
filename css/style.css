@@ -200,7 +200,7 @@
 	.title1 {
 		margin-top: 40px;
 		margin-right: 27%;
-		background-image: url("https://michailanerizon.github.io/Q2Project/Images/https://michailanerizon.github.io/Q2Project/Images/Apparatus.jpg");
+		background-image: url("https://michailanerizon.github.io/Q2Project/Images/Apparatus.jpg");
 		padding: 25px;
 		width: 65%;
 		height: 10%;
@@ -218,10 +218,6 @@
 		color: white;
 		text-shadow: 2px 2px black;
 		text-decoration: none;
-	}
-
-	.title2 a {
-		color: #FFE4D6;
 	}
 
 	.title3 {
@@ -245,10 +241,6 @@
 		color: #FFE4D6;
 		text-shadow: 2px 2px black;
 		text-decoration: none;
-	}
-
-	.title4 a {
-		color: #FFE4D6;
 	}
 
 	.title1 a, .title2 a, .title3 a, .title4 a {
