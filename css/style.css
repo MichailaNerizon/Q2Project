@@ -1468,6 +1468,11 @@
 		filter: grayscale(100%);
 	}
 
+	.examples p {
+		margin-left: 50px;
+		text-align: left;
+	}
+
 	#synthesis {
 		margin-top: 60px;
 	}
